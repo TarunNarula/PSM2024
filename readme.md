@@ -11,7 +11,7 @@ Read the Scrum Guide repeatedly and complete the Open Assessment until consisten
 
 - **Open Assessment:** [Link](https://www.scrum.org/open-assessments/scrum-open)
 
-- **Possible Questions:** [Link](https://github.com/TarunNarula/PSM-2024/blob/main/Possible%20Questions.md)
+- **Possible Questions:** [Link](https://github.com/TarunNarula/PSM2024/blob/main/Possible%20Questions.md)
 
 - **Certification Registration Page:** [Link](https://www.scrum.org/assessments/professional-scrum-master-i-certification)
 
